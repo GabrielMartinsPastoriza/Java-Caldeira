@@ -5,7 +5,7 @@
 Saudações aspirantes a Chuunin! Chegou a hora de provar suas habilidades de programação em um desafio digno de um verdadeiro shinobi.
  O Hokage da Vila da Folha convocou vocês para uma missão crucial: modernizar os registros de missões das Vilas.
 
-<img src="https://github.com/SkiereszDiego/Java-Caldeira-Privado/blob/main/aula16/naruto.gif?raw=true">
+<img src="https://github.com/SkiereszDiego/Java-Caldeira-Privado/blob/main/aula16/naruto(1).gif?raw=true">
 
 Preparem-e para construir uma API da Vila Caldeira, onde vai exigir todo o seu conhecimento em ninjutsu Spring! 🐱‍👤.
 
@@ -40,4 +40,4 @@ Preparem-e para construir uma API da Vila Caldeira, onde vai exigir todo o seu c
 
 🌟 Boa sorte, jovens shinobis! Que a vontade do fogo (e do Spring) esteja com vocês durante este Exame Chuunin de Programação Ninja! 🌟
 
-<img src="https://github.com/SkiereszDiego/Java-Caldeira-Privado/blob/main/aula16/kakashi.gif?raw=true">
+<img src="https://github.com/SkiereszDiego/Java-Caldeira-Privado/blob/main/aula16/kakashi(1).gif?raw=true">
