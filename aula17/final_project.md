@@ -2,14 +2,14 @@
 
 ## Desenvolvimento de Plataforma para Entusiastas da Franquia Zelda
 
-![image](https://github.com/SkiereszDiego/Java-Caldeira-Privado/blob/702086bc0550b78f3958f3d2a623a52cb7253f71/aula17-desafio-final/zelda1.gif)
+![image](https://github.com/SkiereszDiego/Java-Caldeira/blob/05d363e0c06db70f549dbe478a7aa6d395442eaa/aula17/zelda1.gif)
 
 ### **Objetivo:** 
 Criar uma plataforma inovadora que conecta entusiastas da renomada franquia Zelda. Este software será estruturado em três microserviços distintos, cada um desempenhando um papel fundamental na experiência do usuário.
 
 ### **Hey. Listen!**
 
-![image](https://github.com/SkiereszDiego/Java-Caldeira-Privado/blob/702086bc0550b78f3958f3d2a623a52cb7253f71/aula17-desafio-final/zelda4.gif)
+![image](https://github.com/SkiereszDiego/Java-Caldeira/blob/05d363e0c06db70f549dbe478a7aa6d395442eaa/aula17/zelda4.gif)
 
 ### **Instruções:**
 
@@ -51,7 +51,7 @@ Criar uma plataforma inovadora que conecta entusiastas da renomada franquia Zeld
 
         *PF - Projeto Final
 
-![image](https://github.com/SkiereszDiego/Java-Caldeira-Privado/blob/9fdf6f39282d1e694baabf7a1c7c08396910a477/aula17-desafio-final/commit%20semantico.png)
+![image](https://github.com/SkiereszDiego/Java-Caldeira/blob/9fdf6f39282d1e694baabf7a1c7c08396910a477/aula17-desafio-final/commit%20semantico.png)
 
 8. Nunca faça commit ou push diretamente na branch "main". A branch "main" deve ser considerada como a branch principal e estável do projeto.
 
@@ -71,7 +71,7 @@ Criar uma plataforma inovadora que conecta entusiastas da renomada franquia Zeld
 
 # O Projeto final
 
-![image](https://github.com/SkiereszDiego/Java-Caldeira-Privado/blob/702086bc0550b78f3958f3d2a623a52cb7253f71/aula17-desafio-final/zelda.gif)
+![image](https://github.com/SkiereszDiego/Java-Caldeira/blob/05d363e0c06db70f549dbe478a7aa6d395442eaa/aula17/zelda.gif)
 
 ## 1. API de Usuário (CRUD):
 - Desenvolva uma API REST responsável por operações CRUD (Criar, Ler, Atualizar, Deletar) relacionadas aos perfis de usuário.
@@ -85,7 +85,7 @@ Criar uma plataforma inovadora que conecta entusiastas da renomada franquia Zeld
 - Desenvolva um API Gateway que sirva como ponto de entrada unificado para os serviços anteriores.
 - Integre de forma eficiente as APIs de Usuário e de Consulta à API Pública para criar uma experiência coesa para os usuários finais.
 
-![image](https://github.com/SkiereszDiego/Java-Caldeira-Privado/blob/9fdf6f39282d1e694baabf7a1c7c08396910a477/aula17-desafio-final/gateway.png)
+![image](https://github.com/SkiereszDiego/Java-Caldeira/blob/05d363e0c06db70f549dbe478a7aa6d395442eaa/aula17/gateway.png)
 
 ### Observações Importantes:
 
@@ -124,7 +124,7 @@ Criar uma plataforma inovadora que conecta entusiastas da renomada franquia Zeld
 
 Este projeto proporcionará aos entusiastas da franquia Zelda uma plataforma envolvente e interativa, reunindo informações detalhadas e permitindo a interação social entre os usuários. Prepare-se para mergulhar no universo de Zelda e explorar o potencial da arquitetura de microserviços em Java com Spring!
 
-![image](https://github.com/SkiereszDiego/Java-Caldeira-Privado/blob/702086bc0550b78f3958f3d2a623a52cb7253f71/aula17-desafio-final/zelda2.gif)
+![image](https://github.com/SkiereszDiego/Java-Caldeira-Privado/blob/094ec6dbf6c1eaa4d2a79872af38f9e6df13dd40/aula17-desafio-final/zelda2.gif)
 
 
 
