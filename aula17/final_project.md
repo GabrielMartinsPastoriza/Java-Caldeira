@@ -51,11 +51,11 @@ Criar uma plataforma inovadora que conecta entusiastas da renomada franquia Zeld
 
         *PF - Projeto Final
 
-![image](https://github.com/SkiereszDiego/Java-Caldeira/blob/9fdf6f39282d1e694baabf7a1c7c08396910a477/aula17-desafio-final/commit%20semantico.png)
+![image](https://github.com/SkiereszDiego/Java-Caldeira/blob/fix/link-conventional-commits/aula17/commit%20semantico.png)
 
 8. Nunca faça commit ou push diretamente na branch "main". A branch "main" deve ser considerada como a branch principal e estável do projeto.
 
-9. Cada membro do grupo deve fazer o commit e o push para o repositório compartilhado. É importante adicionar uma mensagem de commit descritiva, de preferencia utilizar convençõs como [Commit semantico ](https://docs.zelda.fanapis.com/docs/games) .
+9. Cada membro do grupo deve fazer o commit e o push para o repositório compartilhado. É importante adicionar uma mensagem de commit descritiva, de preferencia utilizar convençõs como [Commit semantico](https://programadriano.medium.com/dica-r%C3%A1pida-commits-sem%C3%A2nticos-e0ca2139badd) ou [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
 
 10. Certifiquem-se de resolver qualquer conflito que possa ocorrer durante o processo de push.
 
