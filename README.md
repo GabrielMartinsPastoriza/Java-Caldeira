@@ -60,13 +60,14 @@ Este é o cronograma inicial que planejamos:
 | **09/11/2023** | 14h00 - 17h | Tipos de arquitetura (Monolítica e Microserviços) + Conectar a API ao Banco (com spring)  |
 | **14/11/2023** | 14h00 - 17h | Dojo |
 | **16/11/2023** | 14h00 - 17h | Java revenge |
-| **21/11/2023** | 14h00 - 17h | Projeto API Rest - Planning |
+| **21/11/2023** | 14h00 - 17h | Projeto API Rest - Apresentação do problema e Planning |
 | **23/11/2023** | 14h00 - 17h | Projeto API Rest - Sprint 1 |
-| **28/11/2023** | 14h00 - 17h | Projeto API Rest - Sprint 2 |
-| **30/11/2023** | 14h00 - 17h | Entrega e Apresentação do projeto - Review |
-| **05/12/2023** | 14h00 - 17h | Apresentação do projeto |
-| **07/12/2023** | 14h00 - 17h | Alinhamento final do curso x expectativas para o mercado |
-| **12/12/2023** | 14h00 - 17h | Formatura |
+| **28/11/2023** | 14h00 - 17h | Curso Metodologias Agéis e Projeto API Rest - Sprint 1  |
+| **30/11/2023** | 14h00 - 17h | Projeto API Rest - Sprint 2 | 
+| **05/12/2023** | 14h00 - 17h | Projeto API Rest - Sprint 2 |
+| **07/12/2023** | 14h00 - 17h | Entrega e Apresentação do projeto - Review |
+| **12/12/2023** | 14h00 - 17h | Entrega e Apresentação do projeto - Review |
+| **13/12/2023** | Unknow | Formatura |
 
 :point_right: Dia 07/09 e 12/10 não constam no calendário porque são feriados.
 
