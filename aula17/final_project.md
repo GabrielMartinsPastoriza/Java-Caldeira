@@ -122,6 +122,13 @@ Criar uma plataforma inovadora que conecta entusiastas da renomada franquia Zeld
     - Implementar um cache das informações da API externa.
     - Com essas informações, associar um usuário a VÁRIOS jogos, retornando os dados do usuário junto com seus jogos preferidos da franquia Zelda.
 
+  - **V4:**
+    O Cliente conversou com o PO e chegou uma nova demanda para nós:
+    - Eu, como usuário do sistema, desejo escrever uma análise ou a minha opinião sobre meus jogos preferidos da franquia;
+    - Eu, como usuário do sistema, desejo poder atualizar minhas análises;
+    - Eu, como usuário do sistema, desejo poder ver todas as minhas análises e ver uma análise por vez.
+    Cabe a nós, como desenvolvedores, pensar na solução e codificá-la.
+
 Este projeto proporcionará aos entusiastas da franquia Zelda uma plataforma envolvente e interativa, reunindo informações detalhadas e permitindo a interação social entre os usuários. Prepare-se para mergulhar no universo de Zelda e explorar o potencial da arquitetura de microserviços em Java com Spring!
 
 ![image](https://github.com/SkiereszDiego/Java-Caldeira-Privado/blob/094ec6dbf6c1eaa4d2a79872af38f9e6df13dd40/aula17-desafio-final/zelda2.gif)
